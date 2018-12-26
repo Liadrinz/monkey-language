@@ -15,7 +15,7 @@ bai &emsp; 丑; 北 <br>
 biand &emsp; 其(属格) <br>
 bian &emsp; 其(主格) <br>
 bolo &emsp; 爱 <br>
-bolbai &emsp; 涵 <br> (bolo-bai)
+bolbai &emsp; 涵 (bolo-bai) <br>
 
 ## C
 
@@ -90,7 +90,7 @@ pado &emsp; 颇; 万 <br>
 ## R
 rav &emsp; 死; 亡; <br>
 ravar &emsp; 树; 木; 九 <br>
-rex &emsp; 弓
+rex &emsp; 弓 <br>
 Rexar &emsp; 星期二 <br>
 
 ## S
@@ -103,7 +103,7 @@ smalem &emsp; 震 <br>
 svi &emsp; 清 <br>
 
 ## T
-ta &emsp; 人民; 众; 五
+ta &emsp; 人民; 众; 五 <br>
 tar &emsp; 西; 天 <br>
 tarav &emsp; 灾难 <br>
 tarjarn &emsp; 日 <br>
@@ -122,7 +122,7 @@ User &emsp; 星期六 <br>
 ## V
 vakanda &emsp; 国 <br>
 var &emsp; 祖; 根; 生 <br>
-varav &emsp; 人; 人类; 个人
+varav &emsp; 人; 人类; 个人 <br>
 varila &emsp; 影 <br>
 Varila &emsp; 星期五 <br>
 
