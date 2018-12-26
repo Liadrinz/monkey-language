@@ -1,77 +1,145 @@
-# Dictionary of The Monkey Language
+# Monkiwa z Keyvals
 
 ## A
-ago &emsp; pron. 这个; 那个 <br>
+agandago &emsp; 墙 <br>
+ago &emsp; 此 <br>
+alan &emsp; 欺 <br>
+Axios &emsp; 亚洲 <br>
+Avican &emsp; 非洲 <br>
+American &emsp; 美洲 <br>
+Namzyarnagrai &emsp; 南极 <br>
+
 
 ## B
-bai &emsp; n. 糟糕的东西; adj. 坏的 <br>
-bian &emsp; pron. 他; 她; 他们; 她们; n. 鞭子; 汇编语言 <br>
+bai &emsp; 丑; 北 <br>
+biand &emsp; 其(属格) <br>
+bian &emsp; 其(主格) <br>
+bolo &emsp; 爱 <br>
+bolbai &emsp; 涵 <br> (bolo-bai)
 
 ## C
 
+
 ## D
-dishju &emsp; n. 铁球; 女人; 女王; 雌猴 v. 进攻, 攻击; <br>
-didzei &emsp; n. DJ <br>
-djugan &emsp; v. 侮辱, 辱骂; <br>
-dikei-nagsa &emsp; adj. 重复的; n. 源; <br>
-drus-drunega &emsp; adj. 语无伦次的; 外国的; (可以代替任何一句话, 在说不出话的时候使用) <br>
+dag &emsp; 愚者; 四 <br>
+dishju &emsp; 钢铁 <br>
+didzei &emsp; 歌者 <br>
+dikei &emsp; 源 <br>
+divals &emsp; 江河 <br>
+djugan &emsp; 谤 <br>
+drunega &emsp; 哉 <br>
 
 ## E
+elune &emsp; 自然 <br>
+Elune &emsp; 星期四 <br>
 
 ## F
-fo-eva &emsp; adj. 永恒的 <br>
+fo-eva &emsp; 恒 <br>
+
 
 ## G
-ga &emsp; v. 做, 干; <br>
-galiniang &emsp; 甘霖娘 <br>
+ga &emsp; 行 <br>
+gaus &emsp; 浊 <br>
+gwan &emsp; 阔 <br>
 
 ## H
-hei &emsp; n. 美好的东西; adj. 好的 <br>
-hjuman &emsp; pron. 您; 你们 <br>
-hou &emsp; n. 人, 男人; 猴, 雄猴 <br>
-hou-a &emsp; n. 国王; 陛下 <br>
-houlaid-women &emsp; n. 恶魔; 靡靡之音; 邪恶咒语; adj. 邪恶的 <br>
+hei &emsp; 美 <br>
+hjud &emsp; 君(属格) <br>
+hjuman &emsp; pron. 君(主格) <br>
+hou &emsp; 夫; 七 <br>
+hou-a &emsp; 王 <br>
+houlaid-women &emsp; 邪 <br>
+hui &emsp; 女神; 三 <br>
 
 ## I
 
 ## J
+jain &emsp; 魔法 <br>
+Jaina &emsp; 星期一 <br>
+je &emsp; 神灵; 一 <br>
+jeta &emsp; 领主; 统治者; 六 <br>
+jesmalem &emsp; 天谴; 谴责 <br>
+jevar &emsp; 水(je-var) <br>
 
 ## K
+keyvals &emsp; 汇 <br>
 
 ## L
+lorbi &emsp; 目 <br>
 
 ## M
-monki &emsp; pron. 我 <br>
+mond &emsp; 吾(属格) <br>
+monki &emsp; 吾(主格) <br>
+montad &emsp; 我们(属格) <br>
+monta &emsp; 我们(主格) <br>
 
 ## N
+nam &emsp; 南 <br>
+nimenjau &emsp; 战 <br>
+nrai &emsp; 阴; 反 <br>
+nralo &emsp; 憎(nrai-bolo) <br>
 
 ## O
-oi &emsp; int. 表示警告的声音 <br>
+oi &emsp; 禁; 十 <br>
 
 ## P
+pado &emsp; 颇; 万 <br>
 
 ## Q
 
 ## R
+rav &emsp; 死; 亡; <br>
+ravar &emsp; 树; 木; 九 <br>
+rex &emsp; 弓
+Rexar &emsp; 星期二 <br>
 
 ## S
-sa &emsp; adv. 是的; v. 是 <br>
-sern-tama &emsp; 敬语后缀(神他妈) <br>
-sma &emsp; adv. 是吗 <br>
-smalem &emsp; n. 大师兄; 狗; adj. 令人震怒的 <br>
+s &emsp; 者也 <br>
+sa &emsp; 诚然 <br>
+sern-tama &emsp; (敬语后缀) <br>
+shoro &emsp; 幼 <br>
+sma &emsp; 疑; 何 <br>
+smalem &emsp; 震 <br>
+svi &emsp; 清 <br>
 
 ## T
-tsuajanoun &emsp; n. 
+ta &emsp; 人民; 众; 五
+tar &emsp; 西; 天 <br>
+tarav &emsp; 灾难 <br>
+tarjarn &emsp; 日 <br>
+Tarjarn &emsp; 星期日 <br>
+tarjern &emsp; 火 <br>
+tarnrai &emsp; 月 <br>
+tarsmalem &emsp; 雷 <br>
+tent &emsp; 东; 地 <br>
+thral &emsp; 祝福 <br>
+Thral &emsp; 星期三 <br>
 
 ## U
+use &emsp; 光 <br>
+User &emsp; 星期六 <br>
 
 ## V
-vakanda &emsp; n. 国家; 美好的世界, 美丽的地方; 宫殿; 名胜古迹 <br>
+vakanda &emsp; 国 <br>
+var &emsp; 祖; 根; 生 <br>
+varav &emsp; 人; 人类; 个人
+varila &emsp; 影 <br>
+Varila &emsp; 星期五 <br>
 
 ## W
+wa &emsp; 言 <br>
+woi &emsp; 百 <br>
+wua &emsp; 千 <br>
 
 ## X
+xar &emsp; 箭 <br>
 
 ## Y
+yarn &emsp; 阳; 正 <br>
+yarnagrai &emsp; 极点; 极致 (yarn-ago-nrai) <br>
+yben &emsp; 神之母; 二 <br>
+ykash &emsp; 初; 始 <br>
+ytag &emsp; 泥土; 八 <br>
 
 ## Z
+z &emsp; 之 <br>
