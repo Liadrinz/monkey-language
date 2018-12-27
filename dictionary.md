@@ -4,6 +4,7 @@
 agandago &emsp; 墙 <br>
 ago &emsp; 此 <br>
 alan &emsp; 欺 <br>
+alandag &emsp; 卑劣 <br>
 Axios &emsp; 亚洲 <br>
 Avican &emsp; 非洲 <br>
 American &emsp; 美洲 <br>
@@ -15,6 +16,8 @@ bai &emsp; 丑; 北 <br>
 biand &emsp; 其(属格) <br>
 bian &emsp; 其(主格) <br>
 bolo &emsp; 爱 <br>
+boluen &emsp; 喜欢 <br>
+boluenga &emsp; 趋势; 趋向 <br>
 bolbai &emsp; 涵 (bolo-bai) <br>
 
 ## C
@@ -40,6 +43,7 @@ fo-eva &emsp; 恒 <br>
 ## G
 ga &emsp; 行 <br>
 gaus &emsp; 浊 <br>
+gauslueng &emsp; 沉 <br>
 gwan &emsp; 阔 <br>
 
 ## H
@@ -53,11 +57,14 @@ hui &emsp; 女神; 三 <br>
 
 ## I
 
+
+
 ## J
 jain &emsp; 魔法 <br>
 Jaina &emsp; 星期一 <br>
 je &emsp; 神灵; 一 <br>
 jeta &emsp; 领主; 统治者; 六 <br>
+jerav &emsp; 鬼; 亡灵 <br>
 jesmalem &emsp; 天谴; 谴责 <br>
 jevar &emsp; 水(je-var) <br>
 
@@ -81,16 +88,21 @@ nralo &emsp; 憎(nrai-bolo) <br>
 
 ## O
 oi &emsp; 禁; 十 <br>
+oivar &emsp; 虚无; 零 <br>
 
 ## P
 pado &emsp; 颇; 万 <br>
+padoxar &emsp; 攻击 <br>
+padoslueng &emsp; 大陆; 大地 <br>
 
 ## Q
+
 
 ## R
 rav &emsp; 死; 亡; <br>
 ravar &emsp; 树; 木; 九 <br>
 rex &emsp; 弓 <br>
+rexoivaxar &emsp; 穷尽 (rex-oivar-xar) <br>
 Rexar &emsp; 星期二 <br>
 
 ## S
@@ -111,6 +123,7 @@ Tarjarn &emsp; 星期日 <br>
 tarjern &emsp; 火 <br>
 tarnrai &emsp; 月 <br>
 tarsmalem &emsp; 雷 <br>
+tause &emsp; 拯救 <br>
 tent &emsp; 东; 地 <br>
 thral &emsp; 祝福 <br>
 Thral &emsp; 星期三 <br>
@@ -133,6 +146,7 @@ wua &emsp; 千 <br>
 
 ## X
 xar &emsp; 箭 <br>
+xarav &emsp; 猎杀; 打猎 <br>
 
 ## Y
 yarn &emsp; 阳; 正 <br>
