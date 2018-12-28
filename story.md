@@ -26,5 +26,18 @@ rav(原型)-ravak(使动)-ravin(意动)-rave(祈动)-ravja(被动)-ravok(假动)
 padoxar-padoxarak-padoxarin-padoxare-padoxarja-padoxarok-padoxarour<br>
 didant-diantrak-didantrin-didantre-didantrja-didantrok-didantrour<br>
 
+### 2
+#### Wapado
+Rexar a padorinja elune z je s. <br>
+Bian xarav bai houlaidar az a padoravar varakour a ta. <br>
+A Rexar z Yben User userak a ta. <br>
+Je Oivar jeta a Oivar z padoslueng az a tar. <br>
+Rexar User nralo pado a Je Oivar. <br>
+Az smajarn, Rexar User ravake a Je Oivar. <br>
 
-
+Rexar a padorinja(pado意被) elune z je s. <br>
+Bian xarav bai houlaidar az a padoravar(丛林) varakour(var使为) a ta. <br>
+A Rexar z Yben User userak(use使为) a ta. <br>
+Je Oivar jeta a Oivar z padoslueng az a tar. <br>
+Rexar User nralo pado a Je Oivar. <br>
+Az smajarn(某日), Rexar User ravake a Je Oivar. <br>
