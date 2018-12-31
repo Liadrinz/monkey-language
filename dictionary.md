@@ -111,6 +111,7 @@ sa &emsp; 诚然 <br>
 sern-tama &emsp; (敬语后缀) <br>
 shoro &emsp; 幼 <br>
 sma &emsp; 疑; 何 <br>
+smajarn &emsp; 某日 <br>
 smalem &emsp; 震 <br>
 svi &emsp; 清 <br>
 
